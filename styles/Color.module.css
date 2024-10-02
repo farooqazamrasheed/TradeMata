@@ -1,0 +1,52 @@
+.gradientBg {
+  background: linear-gradient(to right, #b01ba5,  #0c062e);
+    transition: background 0.3s ease-in-out;
+   
+    
+  }
+  .gradientBg2 {
+    background: linear-gradient(to right,#0c062e, #b01ba5,#3922ba, #0c062e);
+      transition: background 0.3s ease-in-out;
+    }
+    .gradi {
+      border-radius: 12px;
+      background-color: #b01ba5;
+      padding-left: 5px;
+      padding-right:5px ;
+   }
+   
+  .horcolor {
+    background: linear-gradient(to right, #b01ba5,  #3922ba);
+    transition: background 0.3s ease-in-out;
+  }
+  .buttoncol{
+    background-color: #3922ba;
+  }
+  .customcolor {
+    background-color: #0c062e;
+    
+  }
+  .custom:hover {
+    color:  #b01ba5;
+  }
+  .custom1:hover {
+    background-color:  #b01ba5;
+  }
+  .customcolor1 {
+    background: linear-gradient(to right,#0c062e, #b01ba5,  #0c062e);
+    transition: background 0.3s ease-in-out;
+  }
+  .customtext {
+    color: #b01ba5;
+  }
+  .hoverbg {
+    color: #fff; /* Set the initial text color */
+  
+  }
+  
+  .hoverbg:hover {
+    background: #b01ba5;
+    padding-left: 5px;
+    padding-right: 5px; /* Change the background color on hover */
+    color: #fff; /* Change the text color on hover */
+  }
